@@ -1,0 +1,42 @@
+body{
+    background-color: #c9ada7;
+    
+}
+h1{
+    background-color: black;
+    color: white;
+    font-style: italic;
+}
+
+.gojira{
+width: 400px;
+border-radius: 50px;
+border: 1px solid black;
+
+}
+.p2{
+    width: 600px;
+    font-style: italic;
+    
+}
+.read{
+
+    background-color: aquamarine;
+}
+.massive{
+
+    width: 500px;
+    border-radius: 50px;
+    border: 1px solid black;
+}
+.article{
+
+box-sizing: 100px;
+background-color: #e0e1dd;
+width: 700px;
+}
+.gojira4{
+
+    margin-top: 35px;
+    margin-left: 40px;
+}
